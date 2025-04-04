@@ -1,1 +1,1 @@
-# UART-programming-in-Tiva-C
+Sample for PWM programming in ARM Cortex-M4F processor Tiva C launchpad (TM4C123GXL). The main objective of this code is to vary on board led intensity by programming Pulse width modulation peripheral present in Tiva C launchpad (TM4C123GXL). 
